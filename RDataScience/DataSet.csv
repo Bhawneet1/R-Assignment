@@ -1,0 +1,11 @@
+"MedID","Med_Name","Company","Manf_year","Exp_date","Quantity_in_stock","Sales"
+101,"Paracetamol","PharmaCorp",2021,"2024-12-31",200,150
+102,"Ibuprofen","HealthMed",2022,"2025-06-30",300,180
+103,"Amoxicillin","MedLife",2023,"2026-03-15",150,90
+104,"Metformin","DiabeCare",2020,"2025-12-31",250,120
+105,"Atorvastatin","HeartWell",2021,"2024-10-31",100,80
+106,"Omeprazole","DigestCare",2022,"2025-11-30",400,300
+107,"Lisinopril","CardioLife",2023,"2027-01-01",220,170
+108,"Azithromycin","AntibioMed",2023,"2025-05-31",180,150
+109,"Ciprofloxacin","BioGenix",2022,"2026-08-31",130,110
+110,"Levothyroxine","ThyroMed",2021,"2023-12-31",90,60
